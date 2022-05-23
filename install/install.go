@@ -209,8 +209,8 @@ var cm = corev1.ConfigMap{
     cluster-info-from: "k8sclient"            # k8sclient|accuknox
 
 database:
-  driver: mysql
-  host: mysql.explorer.svc.cluster.local
+  driver: sqlite3
+  host: 127.0.0.1
   port: 3306
   user: root
   password: password
