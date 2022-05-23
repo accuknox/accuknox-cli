@@ -1120,6 +1120,8 @@ github.com/kubearmor/KubeArmor/pkg/KubeArmorHostPolicy v0.0.0-20220321102834-097
 github.com/kubearmor/KubeArmor/pkg/KubeArmorHostPolicy v0.0.0-20220321102834-0971f727bd8a/go.mod h1:5r/mNlA5W9ltGM+ZChq+giuI8ZQYC8dApJW5e6e+yjc=
 github.com/kubearmor/KubeArmor/pkg/KubeArmorPolicy v0.0.0-20220321102834-0971f727bd8a h1:p1iS9Ejq92nB6UZO2UxvoTNfJ/bgJPaqQQfBUw2Z43o=
 github.com/kubearmor/KubeArmor/pkg/KubeArmorPolicy v0.0.0-20220321102834-0971f727bd8a/go.mod h1:/oe9pJ7mmIdcr2TqLTNxAYxXxZBC6N0/Z3toqkEOPbo=
+github.com/kubearmor/KubeArmor/protobuf v0.0.0-20220517043351-a9160288d20b h1:74IiC0nUWzgkT+LhHb7bX3VDuIiIDOcW9WeRUh0ZXAw=
+github.com/kubearmor/KubeArmor/protobuf v0.0.0-20220517043351-a9160288d20b/go.mod h1:STB554zT/LFYVryPjKToZXfFN1EuV02yxQkhK+SyI/A=
 github.com/kubearmor/kubearmor-client v0.6.5-0.20220504103727-b61b3332aa85 h1:fYtPJfMGwm2AGpDI8rtegusYnUYLHSvNMes8QHv+2G0=
 github.com/kubearmor/kubearmor-client v0.6.5-0.20220504103727-b61b3332aa85/go.mod h1:nzIaPamrfsenk1tNbx9xdHbB1pGlDp6oojF/hmJ4toU=
 github.com/kylelemons/go-gypsy v1.0.0/go.mod h1:chkXM0zjdpXOiqkCW1XcCHDfjfk14PH2KKkQWxfJUcU=

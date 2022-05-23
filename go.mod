@@ -37,6 +37,7 @@ require (
 	github.com/accuknox/auto-policy-discovery/src v0.0.0-20220429051056-69f8b3b285df
 	github.com/cilium/cilium-cli v0.11.5
 	github.com/gofrs/flock v0.8.1
+	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20220517043351-a9160288d20b
 	github.com/pkg/errors v0.9.1
 	google.golang.org/grpc v1.46.0
 	gopkg.in/yaml.v2 v2.4.0
