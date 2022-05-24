@@ -37,7 +37,6 @@ require (
 	github.com/accuknox/auto-policy-discovery/src v0.0.0-20220429051056-69f8b3b285df
 	github.com/cilium/cilium-cli v0.11.5
 	github.com/gofrs/flock v0.8.1
-	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20220517043351-a9160288d20b
 	github.com/pkg/errors v0.9.1
 	google.golang.org/grpc v1.46.0
 	gopkg.in/yaml.v2 v2.4.0
@@ -141,6 +140,7 @@ require (
 	github.com/kr/text v0.2.0 // indirect
 	github.com/kubearmor/KubeArmor/deployments v0.0.0-20220321102834-0971f727bd8a // indirect
 	github.com/kubearmor/KubeArmor/pkg/KubeArmorHostPolicy v0.0.0-20220321102834-0971f727bd8a // indirect
+	github.com/kubearmor/KubeArmor/protobuf v0.0.0-20220517043351-a9160288d20b // indirect
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 // indirect
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
 	github.com/lib/pq v1.10.4 // indirect
