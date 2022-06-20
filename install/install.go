@@ -215,7 +215,7 @@ var cm = corev1.ConfigMap{
 
 database:
   driver: sqlite3
-  host: mysql.explorer.svc.cluster.local
+  host: 127.0.0.1
   port: 3306
   user: root
   password: password
